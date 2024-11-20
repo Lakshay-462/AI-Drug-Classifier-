@@ -80,9 +80,6 @@ Predicted mechanism: Receptor antagonist
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments:
 1) SMILES string concepts: OpenSMILES
 2) Inspiration for AI in drug discovery.
