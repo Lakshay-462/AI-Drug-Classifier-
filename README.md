@@ -1,4 +1,4 @@
-PharmaNet: AI-Driven Drug Mechanism Classifier
+#PharmaNet: AI-Driven Drug Mechanism Classifier
 PharmaNet is an advanced neural network-based project designed to classify drug mechanisms from SMILES (Simplified Molecular Input Line Entry System) strings. This application demonstrates the use of artificial intelligence in pharmaceutical research, providing a robust framework for identifying mechanisms such as enzyme inhibitors, receptor agonists, and more.
 
 Features
